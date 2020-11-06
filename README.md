@@ -1,2 +1,2 @@
 # oneonlee.github.io
-GitHub Blog
+GitHub Pages
