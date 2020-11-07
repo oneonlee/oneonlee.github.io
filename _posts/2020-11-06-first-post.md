@@ -7,7 +7,6 @@ date: 2020-11-06 22:26:28 -0400
 categories: intro
 thumbnail: /assets/images/bio-photo.jpg
 ---
-# Welcome to 'One Only'!
 ## **One Only**에 방문해주셔서 감사합니다!  
 ```'oneonlee'```는 제 이름인 ```'Dong-geon Lee'```에서 따온 별칭입니다.<br>
 
@@ -60,8 +59,8 @@ thumbnail: /assets/images/bio-photo.jpg
 
 ------
 
-#### References
-이 문서를 만들면서 아래의 사이트들을 참조하였습니다.
+## References
+### 이 문서를 만들면서 아래의 사이트들을 참조하였습니다.
 
 #### Github Pages
 * GitHub Pages 블로그 따라하기
