@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title: "Welcome to 'One Only'!"
 summary: Introducing Post
 date: 2020-11-06 22:26:28 -0400
@@ -36,7 +36,7 @@ thumbnail: /assets/images/bio-photo.jpg
     <ul class="author__urls social-icons">
 		<li><a href="https://instagram.com/east.ablish" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
         <li><a href="https://facebook.com/east.ablish" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i><span class="label">Facebook</span></a></li>        
-		<li><a href="mailto:spaces@kakao.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
+		<li><a href="mailto:spaces@kakao.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li> 
     </ul>
   </div>
 <br>
