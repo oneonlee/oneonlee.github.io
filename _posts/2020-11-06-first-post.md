@@ -6,6 +6,8 @@ categories: introduce
 ## **One Only**에 방문해주셔서 감사합니다!  
 ```'oneonlee'```는 제 이름인 ```'Dong-geon Lee'```에서 따온 별칭입니다. 
 
+
+
 저는   
 * 2000년 01월, 경기도 성남시 분당에서 태어났습니다.  
 * 2018년 02월, 분당대진고등학교를 졸업했습니다.  
@@ -27,38 +29,14 @@ categories: introduce
 
 ---
 
-더 많은 ```**이동건**```을 알고 싶다면,  
-[Instagram](https://www.instagram.com/east.ablish/)  
-[Facebook](https://www.facebook.com/east.ablish)  
-[Email](mailto:spaces@kakao.com)
+더 많은 ```이동건```을 알고 싶다면,  
+<a href="https://www.instagram.com/east.ablish/" target="_blank"><img src="/assets/icon/instagram.svg" width="32" height="32"> Instagram </a><br>
+<a href="https://www.facebook.com/east.ablish" target="_blank"><img src="/assets/icon/facebook.svg" width="32" height="32"> Facebook </a><br>
+<a href="mailto:spaces@kakao.com" target="_blank"><img src="/assets/icon/email.svg" width="32" height="32"> Email </a><br>
 
-더 많은 ```**oneonlee**```를 알고 싶다면,  
-[Instagram](https://www.instagram.com/oneonlee/)  
-[GitHub](https://github.com/oneonlee)
+더 많은 ```oneonlee```를 알고 싶다면,  
+<a href="https://www.instagram.com/oneonlee/" target="_blank"><img src="/assets/icon/instagram.svg" width="32" height="32"> Instagram </a><br>
+<a href="https://github.com/oneonlee" target="_blank"><img src="/assets/icon/github.svg" width="32" height="32"> GitHub </a><br>
 
-<div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
-      
-        <li itemprop="homeLocation" itemscope="" itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Somewhere</span>
-        </li>
-            <li><a href="mailto:spaces@kakao.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
-            <li><a href="https://facebook.com/east.ablish" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i><span class="label">Facebook</span></a></li>                 
-          
-            <li><a href="https://github.com/oneonlee" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
-          
-        
-          
-            <li><a href="https://instagram.com/oneonlee" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
-       
-        <li>
-          <a href="mailto:mailto:spaces@kakao.com">
-            <meta itemprop="email" content="mailto:spaces@kakao.com">
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span>
-          </a>
-        </li>
-    </ul>
-  </div>
 
 
