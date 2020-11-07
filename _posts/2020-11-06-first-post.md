@@ -30,7 +30,7 @@ thumbnail: /assets/images/bio-photo.jpg
 
 ------
 
-* 더 많은 ```Lee Dong-geon```을 알고 싶다면,  
+## 더 많은 ```Lee Dong-geon```을 알고 싶다면,
 <center>
 	<div class="author__urls-wrapper">
 		<button class="btn btn--inverse">Follow</button>
@@ -42,7 +42,7 @@ thumbnail: /assets/images/bio-photo.jpg
 	</div>
 </center>
 <br>
-* 더 많은 ```oneonlee```를 알고 싶다면,  
+**더 많은 ```oneonlee```를 알고 싶다면,**
 <center>  
 	<div class="author__urls-wrapper">
 		<button class="btn btn--inverse">Follow</button>
