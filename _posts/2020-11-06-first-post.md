@@ -13,8 +13,7 @@ categories: introduce
 * 2019년 07월, 대한민국 육군에 현역으로 입대했습니다.  
 * 2020년 01월, 수학과에서 [정보통신공학과](https://ice.inha.ac.kr/ice/index.do)로 전과하였습니다.
 * 2020년 10월, 생활코딩의 [WEB1](https://opentutorials.org/course/3084) 과정으로 HTML에 입문하였습니다.   
-* 2020년 11월, 본격적으로 프로그래밍을 공부하고자 [GitHub 계정](https://github.com/oneonlee)을 만들고,<br>
-과정을 기록하고자 [이 블로그](oneonlee.github.io)를 만들었습니다.<br>
+* 2020년 11월, 본격적으로 프로그래밍을 공부하고자 [GitHub 계정](https://github.com/oneonlee)을 만들고, 과정을 기록하고자 [이 블로그](oneonlee.github.io)를 만들었습니다.<br>
 
 ## 이 블로그에는   
 * **배운 것들에 대한 기록** 뿐만 아니라,  
