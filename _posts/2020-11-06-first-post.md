@@ -6,7 +6,7 @@ date: 2020-11-06 22:26:28 -0400
 categories: introduce
 thumbnail: /assets/images/bio-photo.jpg
 ---
-
+# Welcome to 'One Only'!
 ## **One Only**에 방문해주셔서 감사합니다!  
 ```'oneonlee'```는 제 이름인 ```'Dong-geon Lee'```에서 따온 별칭입니다.<br>
 
@@ -33,7 +33,7 @@ thumbnail: /assets/images/bio-photo.jpg
 ### 더 많은 ```Lee Dong-geon```을 알고 싶다면,  
 <div class="author__urls-wrapper">
     <ul class="author__urls social-icons">
-		<li><a href="https://instagram.com/east.ablish" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram"></i><span class="label">Instagram</span></a></li>
+		<li><a href="https://instagram.com/east.ablish"><i class="fab fa-fw fa-instagram"></i><span class="label">Instagram</span></a></li>
         <li><a href="https://facebook.com/east.ablish" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square"></i><span class="label">Facebook</span></a></li>        
 		<li><a href="mailto:spaces@kakao.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square"></i><span class="label">Email</span></a></li> 
     </ul>
