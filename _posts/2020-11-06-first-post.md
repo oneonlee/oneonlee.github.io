@@ -1,8 +1,21 @@
 ---
+layout: post
 title: "Welcome to 'One Only'!"
+summary: Introducing Post
 date: 2020-11-06 22:26:28 -0400
 categories: introduce
+thumbnail: /assets/images/bio-photo.jpg
 ---
+
+layout: post
+title:  "안녕하세요 !"
+summary: This is a sample post 2 by HG !
+author: SHG
+date: '2020-07-16 09:41:00 +0900'
+category: jekyll
+thumbnail: /assets/img/posts/code.jpg
+
+
 ## **One Only**에 방문해주셔서 감사합니다!  
 ```'oneonlee'```는 제 이름인 ```'Dong-geon Lee'```에서 따온 별칭입니다.<br>
 
