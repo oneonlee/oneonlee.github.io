@@ -22,11 +22,11 @@ categories: introduce
 * **저의 생각**들 등을 올릴 예정입니다.<br>
 ~~꾸준하게 운영할지는 모르겠지만...~~ <br>
 
-### 읽어주셔서 감사합니다.
+읽어주셔서 감사합니다.
 
----
+------
 
-더 많은 ```Lee Dong-geon```을 알고 싶다면,  
+### 더 많은 ```Lee Dong-geon```을 알고 싶다면,  
 <div class="author__urls-wrapper">
     <ul class="author__urls social-icons">
 		<li><a href="https://instagram.com/east.ablish" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
@@ -34,8 +34,8 @@ categories: introduce
 		<li><a href="mailto:spaces@kakao.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
     </ul>
   </div>
-
-더 많은 ```oneonlee```를 알고 싶다면,  
+<br>
+### 더 많은 ```oneonlee```를 알고 싶다면,  
   <div class="author__urls-wrapper">
     <ul class="author__urls social-icons">
         <li><a href="https://instagram.com/oneonlee" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>    
@@ -44,7 +44,7 @@ categories: introduce
   </div>
 <br>
 
----
+------
 
 #### References
 이 문서를 만들면서 아래의 사이트들을 참조하였습니다.
