@@ -34,7 +34,6 @@ categories: introduce
 		<li><a href="mailto:spaces@kakao.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
     </ul>
   </div>
-<br>
 
 더 많은 ```oneonlee```를 알고 싶다면,  
   <div class="author__urls-wrapper">
@@ -44,6 +43,8 @@ categories: introduce
     </ul>
   </div>
 <br>
+
+---
 
 #### References
 이 문서를 만들면서 아래의 사이트들을 참조하였습니다.
