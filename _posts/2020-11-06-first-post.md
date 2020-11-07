@@ -36,4 +36,29 @@ categories: introduce
 [Instagram](https://www.instagram.com/oneonlee/)  
 [GitHub](https://github.com/oneonlee)
 
+<div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope="" itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Somewhere</span>
+        </li>
+            <li><a href="mailto:spaces@kakao.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
+            <li><a href="https://facebook.com/east.ablish" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i><span class="label">Facebook</span></a></li>                 
+          
+            <li><a href="https://github.com/oneonlee" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
+        
+          
+            <li><a href="https://instagram.com/oneonlee" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
+       
+        <li>
+          <a href="mailto:mailto:spaces@kakao.com">
+            <meta itemprop="email" content="mailto:spaces@kakao.com">
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span>
+          </a>
+        </li>
+    </ul>
+  </div>
+
 
