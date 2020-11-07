@@ -43,7 +43,32 @@ categories: introduce
         <li><a href="https://github.com/oneonlee" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
     </ul>
   </div>
+<br>
 
+#### References
+이 문서를 만들면서 아래의 사이트들을 참조하였습니다.
+
+##### 문법
+* 마크다운 문법 정리<br>
+https://devyurim.github.io/development%20environment/github%20blog/2018/01/01/blog-3.html<br>
+* MarkDown 사용법 총정리<br>
+https://heropy.blog/2017/09/30/markdown/<br>
+
+#### 이미지
+* 마크다운에서 이미지 넣기 / 이미지에 링크 넣기 <br>
+https://m.blog.naver.com/PostView.nhn?blogId=chandong83&logNo=220812226888&proxyReferer=https:%2F%2Fwww.google.com%2F<br>
+* 이미지 사이즈 조절 & 정렬<br>
+https://blog.yena.io/studynote/2017/11/23/Github-resize-image.html<br>
+* HTML 이미지 링크 걸기<br>
+https://meaningone.tistory.com/115<br>
+
+#### 파비콘
+* 깃허브 블로그 favicon 추가<br>
+https://ivelee.github.io/github/set-up-favicon/<br>
+* Github 블로그 탭 아이콘(favicon) 설정<br>
+https://blog.naver.com/prt1004dms/221451802933<br>
+* Favicon.ico & App Icon Generator<br>
+https://www.favicon-generator.org/<br>
   
   
 
