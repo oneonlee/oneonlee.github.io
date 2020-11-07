@@ -32,6 +32,7 @@ thumbnail: /assets/images/bio-photo.jpg
 
 ### 더 많은 ```Lee Dong-geon```을 알고 싶다면,  
 <div class="author__urls-wrapper">
+	<button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
 		<li><a href="https://instagram.com/east.ablish" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
         <li><a href="https://facebook.com/east.ablish" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i><span class="label">Facebook</span></a></li>        
@@ -41,6 +42,7 @@ thumbnail: /assets/images/bio-photo.jpg
 <br>
 ### 더 많은 ```oneonlee```를 알고 싶다면,  
   <div class="author__urls-wrapper">
+	<button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
         <li><a href="https://instagram.com/oneonlee" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>    
         <li><a href="https://github.com/oneonlee" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
