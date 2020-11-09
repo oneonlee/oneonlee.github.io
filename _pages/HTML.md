@@ -1,6 +1,6 @@
 ---
 title: "HTML"
-permalink: /categories/HTML/
+permalink: /categories/#html/
 layout: category
 author_profile: true
 taxonomy: HTML
