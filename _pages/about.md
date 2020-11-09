@@ -16,25 +16,30 @@ thumbnail: /assets/images/bio-photo.jpg
 * 2018년 02월, 분당대진고등학교를 졸업했습니다.  
 * 2018년 03월, [인하대학교](https://www.inha.ac.kr/sites/kr/index.do) 수학과에 입학했습니다.  
 * 2019년 07월, 대한민국 육군에 현역으로 입대했습니다.  
-* 2020년 01월, 수학과에서 [정보통신공학과](https://ice.inha.ac.kr/ice/index.do)로 전과하였습니다.
-* 2020년 10월, 생활코딩의 [WEB1](https://opentutorials.org/course/3084) 과정으로 HTML에 입문하였습니다.   
-* 2020년 11월, 본격적으로 프로그래밍을 공부하고자 [GitHub 계정](https://github.com/oneonlee)을 만들고, 과정을 기록하고자 [이 블로그](oneonlee.github.io)를 만들었습니다.<br>
+* 2020년 01월, [수학과](http://www.math.inha.ac.kr/user/math/)에서 [정보통신공학과](https://ice.inha.ac.kr/ice/index.do)로 전과하였습니다.
+* 2020년 10월, [생활코딩](https://opentutorials.org/course/1)의 [WEB1](https://opentutorials.org/course/3084) 과정으로 HTML에 [입문](https://oneonlee.github.io/html/complete-web1/)하였습니다.   
+* 2020년 11월, 본격적으로 프로그래밍을 공부하기 위해서 [GitHub 계정](https://github.com/oneonlee)을 만들고, 과정을 기록하고자 [이 블로그](oneonlee.github.io)를 만들었습니다.<br>
 
 ## 이 블로그에는   
 * **배운 것들에 대한 기록** 뿐만 아니라,  
-* **개발 히스토리**,  
-* 개발 관련된 서적 **독후감**, 
+* 소프트웨어 **개발 히스토리 기록**,  
+* IT 관련 서적 **독후감**, 
+* **자기개발일지**,
 * **저의 생각**들 등을 올릴 예정입니다.<br>
 ~~꾸준하게 운영할지는 모르겠지만...~~ <br>
 
-### 읽어주셔서 감사합니다.
+
+## 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒿𝑜𝓊𝓇𝓃𝑒𝓎   
+아직은 부족한 실력으로 이것저것 도전중입니다.   
+성장하는 모습을 지켜봐주세요.😀
+읽어주셔서 감사합니다.
 
 ------
 
 ## 더 많은 ```Lee Dong-geon```을 알고 싶다면,
 <center>
 	<div class="author__urls-wrapper">
-		<button class="btn btn--inverse">Follow</button>
+		<button class="btn btn--inverse">Follow1</button>
 		<ul class="author__urls social-icons">
 			<li><a href="https://instagram.com/east.ablish" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
 			<li><a href="https://facebook.com/east.ablish" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i><span class="label">Facebook</span></a></li>        
@@ -49,7 +54,7 @@ thumbnail: /assets/images/bio-photo.jpg
 ## 더 많은 ```oneonlee```를 알고 싶다면,
 <center>  
 	<div class="author__urls-wrapper">
-		<button class="btn btn--inverse">Follow</button>
+		<button class="btn btn--inverse">Follow2</button>
 		<ul class="author__urls social-icons">
 			<li><a href="https://instagram.com/oneonlee" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>    
 			<li><a href="https://github.com/oneonlee" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
