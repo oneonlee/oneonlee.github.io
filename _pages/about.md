@@ -55,7 +55,7 @@ thumbnail: /assets/images/bio-photo.jpg
 <center>  
 	<div class="author__urls-wrapper">
 		<button class="btn btn--inverse">여기를</button>
-		<ul class="author__urls social-icons">
+		<class="author__urls social-icons">
 			<li><a href="https://instagram.com/oneonlee" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="false"></i><span class="label">Instagram</span></a></li>    
 			<li><a href="https://github.com/oneonlee" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="false"></i><span class="label">GitHub</span></a></li>
 		</ul>
