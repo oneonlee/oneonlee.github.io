@@ -55,6 +55,8 @@ thumbnail: /assets/images/bio-photo.jpg
 #### Github Pages
 * GitHub Pages 블로그 따라하기
 <https://devinlife.com/howto/><br>
+* Minimal-Mistakes 테마의 디렉터리 구조
+<https://ansohxxn.github.io/blog/jekyll-directory-structure/><br>
 
 ##### 문법
 * Markdown 문법 알아보기
