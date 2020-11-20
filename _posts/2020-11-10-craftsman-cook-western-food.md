@@ -73,7 +73,7 @@ date: 2020-11-10 22:26:28 -0400
 ---
 
 바로가기
-<a href="https://www.youtube.com/playlist?list=PL1FAae0rVZtgNKnU0lGZrsTLa-QoK4VgI" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/playlist?list=PL1FAae0rVZtgNKnU0lGZrsTLa-QoK4VgI" target="_blank"><img src="https://blog.kakaocdn.net/dn/bMKTiD/btqIs9G0ezB/jSc4qtVJDK6wLk9WgVMmLK/img.png" alt="2020 양식조리기능사 유튜브 재생목록" width="240" height="180" border="10" /></a><br>
 * [2020 양식조리기능사 유튜브 재생목록](https://www.youtube.com/playlist?list=PL1FAae0rVZtgNKnU0lGZrsTLa-QoK4VgI)   
 * [유튜브 '요리공작소'](https://www.youtube.com/channel/UC1zqypwYvtRhMsl98iDsi8Q)
 * [나무위키 양식조리기능사 문서](https://namu.wiki/w/%EC%96%91%EC%8B%9D%EC%A1%B0%EB%A6%AC%EA%B8%B0%EB%8A%A5%EC%82%AC)
