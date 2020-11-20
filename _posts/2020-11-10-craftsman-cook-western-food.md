@@ -72,7 +72,9 @@ date: 2020-11-10 22:26:28 -0400
 
 ---
 
-바로가기
+바로가기<br>
+<br>
+
 <a href="https://www.youtube.com/playlist?list=PL1FAae0rVZtgNKnU0lGZrsTLa-QoK4VgI" target="_blank"><img src="https://blog.kakaocdn.net/dn/bMKTiD/btqIs9G0ezB/jSc4qtVJDK6wLk9WgVMmLK/img.png" alt="2020 양식조리기능사 유튜브 재생목록" width="240" height="180" border="10" /></a><br>
 * [2020 양식조리기능사 유튜브 재생목록](https://www.youtube.com/playlist?list=PL1FAae0rVZtgNKnU0lGZrsTLa-QoK4VgI)   
 * [유튜브 '요리공작소'](https://www.youtube.com/channel/UC1zqypwYvtRhMsl98iDsi8Q)
