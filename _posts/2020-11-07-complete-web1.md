@@ -34,7 +34,7 @@ World Wide로 들어가는 🌎<br>
 바로가기
 
 * [home of the first website](http://info.cern.ch/)   
-* [오픈튜토리얼스](Opentutorials.org)   
+* [오픈튜토리얼스](http://Opentutorials.org)   
 * [생활코딩 WEB 과정](https://opentutorials.org/course/3083)   
-* [YouTube WEB1- HTML & Internet](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb)   
+* [WEB1- HTML & Internet YouTube 재생목록](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb)   
 * [코딩야학](https://coding.yah.ac/)   
