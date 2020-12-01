@@ -10,9 +10,11 @@ thumbnail: /assets/images/bio-photo.jpg
 ---
 ## **One Only**에 방문해주셔서 감사합니다!  
 ```'oneonlee'```는 제 이름인 ```'Dong-geon Lee'```에서 따온 별칭입니다.<br>
+
+<details>
 <summary>무슨 소리인지 궁금하다면 ...</summary>
 <div markdown="1">
-![oneonlee](/assets/images/anagram.gif){: width="10%" height="10%"}
+![oneonlee](/assets/images/anagram.gif){: width="70%" height="70%"}
 </div>
 </details>
 
