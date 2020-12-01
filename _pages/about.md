@@ -14,7 +14,8 @@ thumbnail: /assets/images/bio-photo.jpg
 <details>
 <summary>무슨 소리인지 궁금하다면 ...</summary>
 <div markdown="1">
-![oneonlee](/assets/images/anagram.gif){: width="70%" height="70%"}
+### 뾰로롱 ✨
+![oneonlee](/assets/images/anagram.gif){: width="80%" height="80%"}
 </div>
 </details>
 
