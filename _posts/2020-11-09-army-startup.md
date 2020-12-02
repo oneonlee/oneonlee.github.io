@@ -1,9 +1,9 @@
 ---
-title:  "육군창업경진대회 참가 및 후기"
+title:  "[스타트업] 육군창업경진대회 참가 및 후기"
 excerpt: "2020 제 4회 육군창업경진대회에 참가했습니다. + 후기"
 read_time: false # read_time을 출력할지 여부 1min read 같은것!
 categories:
-  - 자기개발
+  - Posts
 tags:
   - 군대
   - 창업경진대회
