@@ -3,7 +3,7 @@ title:  "[HTML5] 생활코딩 코딩야학 WEB1 수료"
 excerpt: "생활코딩의 WEB1 과정을 이수했습니다. + 후기"
 read_time: false # read_time을 출력할지 여부 1min read 같은것!
 categories:
-  - HTML
+  - Study Note
 tags:
   - HTML
   - WEB
