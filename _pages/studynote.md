@@ -2,7 +2,7 @@
 title: "Study Note"
 permalink: /studynote/
 layout: category
-author_profile: false # true
+author_profile: true
 taxonomy: Study Note
 ---
 
