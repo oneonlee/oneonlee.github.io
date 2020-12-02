@@ -2,6 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Categories"
-    url: /categories/
+  - title: "Study Note"
+    url: /studynote/
+  - title: "Tags"
+    url: /tags/
+#  - title: "Categories"
+#    url: /categories/
 
