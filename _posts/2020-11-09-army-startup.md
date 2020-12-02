@@ -5,7 +5,7 @@ read_time: false # read_time을 출력할지 여부 1min read 같은것!
 categories:
   - 자기개발
 tags:
-  - 육군
+  - 군대
   - 창업경진대회
   - 코로나
   - 스타트업
