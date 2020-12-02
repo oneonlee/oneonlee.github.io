@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Posts"
+    url: /posts/
   - title: "Study Note"
     url: /studynote/
   - title: "Tags"
