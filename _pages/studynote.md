@@ -1,6 +1,6 @@
 ---
 title: "Study Note"
-permalink: /studynote
+permalink: /studynote/
 layout: category
 author_profile: false # true
 taxonomy: Study Note
