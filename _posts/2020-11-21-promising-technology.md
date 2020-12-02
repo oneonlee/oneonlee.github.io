@@ -1,12 +1,13 @@
 ---
-title:  "포스트 코로나 시대의 미래전망 및 유망기술"
+title:  "[IT] 포스트 코로나 시대의 미래전망 및 유망기술"
 excerpt: "출처 : 미래예측 브리프 - 한국과학기술기획평가원"
 read_time: false # read_time을 출력할지 여부 1min read 같은것!
 categories:
-  - IT
+  - Posts
 tags:
   - IT
   - 코로나
+  - 진로
 #last_modified_at: 2020-11-10T08:06:00-05:00
 date: 2020-11-21 22:59:28 -0400
 ---
