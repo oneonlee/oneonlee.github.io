@@ -5,12 +5,9 @@ read_time: false # read_time을 출력할지 여부 1min read 같은것!
 categories:
   - 자기개발
 tags:
-  - 양식
-  - 조리기능사
   - 양식조리기능사
   - 군대
-  - 국기검
-  - 국가기술자격검정
+  - 
   - 공부
 #last_modified_at: 2020-11-10T08:06:00-05:00
 date: 2020-11-10 22:26:28 -0400
