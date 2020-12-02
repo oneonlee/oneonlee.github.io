@@ -27,7 +27,6 @@ thumbnail: /assets/images/bio-photo.jpg
 * 2018년 03월, [인하대학교](https://www.inha.ac.kr/sites/kr/index.do) 수학과에 입학했습니다.  
 * 2019년 07월, 대한민국 육군에 현역으로 입대했습니다.  
 * 2020년 01월, [수학과](http://www.math.inha.ac.kr/user/math/)에서 [정보통신공학과](https://ice.inha.ac.kr/ice/index.do)로 전과하였습니다.
-<!-- * 2020년 10월, [생활코딩](https://opentutorials.org/course/1)의 [WEB1](https://opentutorials.org/course/3084) 과정으로 HTML에 [입문](https://oneonlee.github.io/html/complete-web1/)하였습니다.   -->
 * 2020년 11월, 본격적으로 프로그래밍을 공부하기 위해서 [GitHub 계정](https://github.com/oneonlee)을 만들고, 과정을 기록하고자 [이 블로그](oneonlee.github.io)를 만들었습니다.<br>
 
 <details>
@@ -36,6 +35,7 @@ thumbnail: /assets/images/bio-photo.jpg
 * 2006년 02월, 분당중앙유치원을 졸업했습니다.
 * 2012년 02월, 당촌초등학교를 졸업했습니다.
 * 2015년 02월, 수내중학교를 졸업했습니다.
+* 2020년 10월, [생활코딩](https://opentutorials.org/course/1)의 [WEB1](https://opentutorials.org/course/3084) 과정으로 HTML에 [입문](https://oneonlee.github.io/html/complete-web1/)하였습니다.   
 </div>
 </details>
 
