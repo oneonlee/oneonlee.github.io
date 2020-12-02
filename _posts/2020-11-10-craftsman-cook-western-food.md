@@ -1,13 +1,13 @@
 ---
-title:  "양식조리기능사 실기 준비 🍳"
+title:  "[자격증] 양식조리기능사 실기 준비 🍳"
 excerpt: "군대에서 국가기술자격검정 도전 📝"
 read_time: false # read_time을 출력할지 여부 1min read 같은것!
 categories:
-  - 자기개발
+  - Posts
 tags:
   - 양식조리기능사
   - 군대
-  - 
+  - 자격증
   - 공부
 #last_modified_at: 2020-11-10T08:06:00-05:00
 date: 2020-11-10 22:26:28 -0400
