@@ -53,9 +53,10 @@ thumbnail: /assets/images/bio-photo.jpg
 아직은 부족한 실력으로 이것저것 도전 중입니다.<br>
 성장하는 모습을 지켜봐주셔서 감사합니다. 😀<br>
 
-### [메인으로 돌아](https://oneonlee.github.io/)
+### [메인으로 돌아가기](https://oneonlee.github.io/)
 ### [Study Note 구경하기](https://oneonlee.github.io/studynote/)
 ### [Posts 구경하기](https://oneonlee.github.io/posts/)
+<br>
 ------
 
 ## 더 많은 ```Lee Dong-geon```을 알고 싶다면,
