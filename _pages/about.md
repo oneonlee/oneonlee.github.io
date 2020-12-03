@@ -71,7 +71,7 @@ thumbnail: /assets/images/bio-photo.jpg
 
 ## References
 <details>
-<summary>이 문서를 만들면서 의 사이트들을 참조하였습니다.</summary>
+<summary>이 문서를 만들면서 다음의 사이트들을 참조하였습니다.</summary>
 <div markdown="1">
 
 <!-- REFERENCE 내용-->
