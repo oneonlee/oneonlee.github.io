@@ -50,10 +50,12 @@ thumbnail: /assets/images/bio-photo.jpg
 -->
 
 ## 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒿𝑜𝓊𝓇𝓃𝑒𝓎   
-아직은 부족한 실력으로 이것저것 도전 중입니다.   
-성장하는 모습을 지켜봐주세요. 😀<br>
-읽어주셔서 감사합니다.
+아직은 부족한 실력으로 이것저것 도전 중입니다.<br>
+성장하는 모습을 지켜봐주셔서 감사합니다. 😀<br>
 
+### [메인으로 돌아](https://oneonlee.github.io/)
+### [Study Note 구경하기](https://oneonlee.github.io/studynote/)
+### [Posts 구경하기](https://oneonlee.github.io/posts/)
 ------
 
 ## 더 많은 ```Lee Dong-geon```을 알고 싶다면,
