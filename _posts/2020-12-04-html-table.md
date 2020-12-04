@@ -12,29 +12,31 @@ tags:
 date: 2020-12-04 22:55:00 
 ---
 
-HTML의 기본 태그 중 테이블 태그를 공부했습니다.
+HTML의 기본 태그 중 테이블 태그를 공부했습니다.<br>
 
+- 테이블 태그<br>
 | 태그 | 설명 |
 |---|---|
 | table | 표 삽입 |
 | tr | 표에 행 삽입 |
 | th | 표의 제목 셀 생성|
 | td | 표의 일반 셀 생성 |
-- 테이블 태그
 <br>
+- 테이블 태그의 속성<br>
 | 태그 | 속성 | 설명 |
 |---|---|---|
-|table |border | 표의 테두리 두께 지정 |
-| <r2> th, td | colspan | 셀의 너비 지정 |
-||rowspan |셀의 높이 지정|
-- 테이블 태그의 속성
-  - th 태그와 td 태그는 colspan 속성과 rowspan 속성을 상요해 표에서 차지하는 영역을 조절 할 수 있다.
-    - colspan 속성을 사용하면 영역이 가로 방향으로 늘어난다.
-    - rowspan 속성을 사용하면 영역이 세로 방향으로 늘어난다.
+| table | border | 표의 테두리 두께 지정 |
+| th, td | colspan | 셀의 너비 지정 |
+|  | rowspan | 셀의 높이 지정 |
+<br>
+- th 태그와 td 태그는 colspan 속성과 rowspan 속성을 상요해 표에서 차지하는 영역을 조절 할 수 있다.
+  - colspan 속성을 사용하면 영역이 가로 방향으로 늘어난다.
+  - rowspan 속성을 사용하면 영역이 세로 방향으로 늘어난다.
   
 ---
 
 ### 예시
+[(진짜 HTML로 보기)](https://oneonlee.github.io/WEB-Programming-Practice/chapter3/practice11.html)
 <table border="1">
     <thead>
         <tr>
