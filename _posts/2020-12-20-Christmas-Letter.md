@@ -1,4 +1,3 @@
-
 ---
 title:  "[WEB] 크리스마스 카드 만들기"
 excerpt: "지인들에게 보낼 크리스마스 카드 만들기 + 'SCC' 후기"
@@ -11,11 +10,11 @@ tags:
   - WEB
   - 공부
   - 크리스마스
-# last_modified_at: 2020-12-02 22:32
+last_modified_at: 2020-12-21 23:00
 date: 2020-12-20 23:35:00 
 ---
 
-# Christmas Letter
+# Making Christmas Letter
 
 ## [스파르타코딩클럽](https://spartacodingclub.kr/) | [크리스마스: 나홀로 코딩](https://spartacodingclub.kr/online/xmas?n_c=8XRAV4KHDlGMehSwnSSy)
 할 거 없는 무료한 주말에, 페이스북을 뒤적거리다가 '스파르타코딩클럽(SCC)'이라는 곳의 광고를 봤습니다.
@@ -23,7 +22,9 @@ date: 2020-12-20 23:35:00
 
 최근, HTML과 CSS를 익혔는데, 배운 지식들을 활용해보기 위해 강좌를 수강했습니다.<br>
 ~~사실 공짜라서...~~
-
+<br>
+### 먼저 결과물을 공유합니다.
+[🎄Christmas Letter🎅](https://oneonlee.github.io/Christmas-Letter/)
 
 ## 목차
 강의 목차는 다음과 같았습니다.<br>
