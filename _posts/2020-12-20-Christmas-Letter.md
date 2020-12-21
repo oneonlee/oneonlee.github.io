@@ -24,7 +24,7 @@ date: 2020-12-20 23:35:00
 ~~사실 공짜라서...~~
 <br>
 ### 먼저 결과물을 공유합니다.
-[🎄Christmas Letter🎅](https://oneonlee.github.io/Christmas-Letter/)
+# [🎄Christmas Letter🎅](https://oneonlee.github.io/Christmas-Letter/)
 
 ## 목차
 강의 목차는 다음과 같았습니다.<br>
@@ -64,14 +64,17 @@ date: 2020-12-20 23:35:00
   * link를 복사해서 <head> ~ </head>사이에, CSS를 복사해서 <style> ~ </style> 사이에 넣는다.<br>![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9ff2f7a1-1759-4456-b498-bf9e734acaab%2FUntitled.png?table=block&id=fa3630d4-b44b-44b8-acbb-6ec21d80b607&width=790&userId=&cache=v2)
 * 카카오톡, 페이스북 등에 공유하기 위한 기초작업 - og태그 넣기
 	* 아래와 같은 이미지+텍스트를 만들 수 있다.![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d2eb3da-9a9e-4965-a15d-4e2f45fd6118%2FUntitled.png?table=block&id=617b0d6b-526d-4393-8cd8-55d669afd011&width=860&userId=&cache=v2)
+	
  ~~~JavaScript 
 <meta property="og:image" content="https://www.christmastreeassociation.org/wp-content/uploads/2016/06/multiple-christmas-trees-in-one-household-800x400.jpg">
 <meta property="og:title" content="길동이의 카드">
 <meta property="og:description" content="2020을 추억하며">
 ~~~
+
 * 하는 김에 favicon도 적용
 	* 요거
 	![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb92b561d-5a1e-4fbe-b7fa-9348e897907d%2FUntitled.png?table=block&id=01a336df-af64-4fd6-8939-f63aa1ed8df7&width=580&userId=&cache=v2)
+	
 ~~~JavaScript
 <link rel="shortcut icon" href="https://freepngimg.com/download/christmas/26196-6-christmas-stocking.png">
 ~~~
